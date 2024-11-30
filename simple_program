@@ -1,0 +1,15 @@
+#include<iostream>
+using namespace std;
+int main ()
+{
+    int A[5];    
+    A[0]=12;
+    A[1] =-20;
+    cout<<"ENTER THE NUMBER"<<endl;
+    cin>>A[2];
+    cout<<"ENTER THE NUMBER"<<endl;
+    cin>>A[3];
+    cout<<"ENTER THE NUMBER"<<endl;
+    cin >>A[4];
+    return 0;
+}
